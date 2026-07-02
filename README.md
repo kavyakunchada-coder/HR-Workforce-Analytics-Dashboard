@@ -1,26 +1,39 @@
-# HR-Workforce-Analytics-Dashboard
-This project analyzes employee workforce data and presents key HR metrics through an interactive Power BI dashboard.
+# HR Workforce Analytics Dashboard
 
-#Features
-Total Employees
-Average Salary
-Average Rating
-Average Age
-Country Analysis
-Hiring Trend Analysis
-Department Distribution
-Salary Analysis by Department
-Employee Rating Distribution
-Gender Distribution
-Top 10 Highest Paid Employees
+## Overview
 
-#Skills Used
-Power BI
-DAX
-Data Modeling
-Data Visualization
-Dashboard Design
-HR Analytics
+This Power BI dashboard provides workforce insights using HR data.
 
-#Objective
-To transform raw HR data into a single-page interactive dashboard that provides workforce, compensation, and employee performance insights.
+## Key Metrics
+
+- Total Employees
+- Average Salary
+- Average Rating
+- Average Age
+- Countries Count
+
+## Dashboard Features
+
+- Hiring Trend Analysis
+- Department Distribution
+- Average Salary by Department
+- Employee Rating Distribution
+- Gender Distribution
+- Department and Country Analysis
+- Top 10 Highest Paid Employees
+
+## Tools Used
+
+- Power BI
+- DAX
+- Power Query
+- Excel
+
+## Dashboard Preview
+
+
+
+## Files
+
+- HR_Analytics_Dashboard.pbix
+- HR_Data.xlsx
