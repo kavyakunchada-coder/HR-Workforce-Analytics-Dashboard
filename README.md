@@ -30,8 +30,7 @@ This Power BI dashboard provides workforce insights using HR data.
 - Excel
 
 ## Dashboard Preview
-
-
+<img width="1065" height="593" alt="dashboard 1" src="https://github.com/user-attachments/assets/88fa5397-aa54-410d-b5de-7d6ff47eb0e0" />
 
 ## Files
 
